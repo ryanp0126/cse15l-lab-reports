@@ -26,5 +26,8 @@ cse15l lab week 2;
 
 `code` is fun
 
+```
 # code block
 print 'hello world'
+
+```

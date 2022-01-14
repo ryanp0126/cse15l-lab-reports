@@ -24,5 +24,6 @@ cse15l lab week 2;
 ```
 # code block
 print 'hello world'
+print 'updated'
 
 ```

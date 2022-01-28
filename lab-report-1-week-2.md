@@ -31,7 +31,9 @@ scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
  - Enter your password when prompted and you should then be able to see the files copied to the server using the ls command.
  ![Image](scpcommand.png)
 
- ## Setting an SSH key
+
+## Setting an SSH key
+
 
  - So far we've had to enter our password when logging into the server, and it would be time-consuming if we had to do this repeatedly.
  - With ssh keys, we only have to enter our password once, and it creates a pair of public and private keys respectively and uses them in place of a password.

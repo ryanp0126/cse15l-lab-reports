@@ -64,7 +64,8 @@ $ ssh cs15lwi22hi@ieng6.ucsd.edu; ls; pwd
 $ ssh cs15lwi22hi@ieng6.ucsd.edu "pwd"
 ```
 
-- An example would be:
-![Image](optimized.png)
+- An example of making a local edit and then copying it to the remote server and running it using only under 10 keystrokes and only using the up arrow to recall commands that we ran: 
+
+![Image](newoptimized.png)
 
 ## That's it for everything, thanks!

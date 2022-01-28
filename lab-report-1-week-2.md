@@ -7,10 +7,11 @@
 
 ## Remotely Connecting
 
-- Next, look up your course-specific account for CSE15L on this website  (https://sdacs.ucsd.edu/~icc/index.php).
+- Next, look up your course-specific account for CSE15L on this [website](https://sdacs.ucsd.edu/~icc/index.php).
 - We're now going to remotely connect to the remote computer using the terminal in VSCode.
 - First, type in the ssh command followed by a space and your account id.
 - Answer yes to any question that pops up and enter your password and you will be successfully connected. Your terminal should look something like this.
+
 ![Image](terminal.png)
 
 ## Trying Some Commands

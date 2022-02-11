@@ -30,4 +30,4 @@ print 'updated'
 
 [Lab Report 1](https://ryanp0126.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
-[Lab Report 3](lab-report-3-week-6.md)
+[Lab Report 3](https://ryanp0126.github.io/cse15l-lab-reports/lab-report-3-week-6.html)

@@ -31,3 +31,5 @@ print 'updated'
 [Lab Report 1](https://ryanp0126.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
 [Lab Report 3](https://ryanp0126.github.io/cse15l-lab-reports/Lab%20Report%203/lab-report-3-week-6.html)
+
+[Lab Report 4](https://ryanp0126.github.io/cse15l-lab-reports/Lab-Report-4/lab-report-4-week-8.html)

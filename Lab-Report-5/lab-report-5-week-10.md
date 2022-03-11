@@ -37,6 +37,7 @@ For this test, I chose test `577.md`.
 
 ### Expected output
 
+![Image](test2expected.png)
 - According to the commonmark demo site, the expected output is an image, which does not count as a link, so the expected output should be `[]`.
 
 ### Actual outputs
@@ -48,6 +49,7 @@ For this test, I chose test `577.md`.
 ### Bug in incorrect implementation 
 
 #### Code to be fixed:
+
 ![Image](test2bug.png)
 
 - The bug that's causing this incorrect behavior is because in the provided implementation, it doesn't check if there is an exclamation mark before the `[`, causing the implementation to think that an image is a link.
